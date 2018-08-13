@@ -1,7 +1,7 @@
-# r/Something
+# `r/{Something}`
 
 ## What is this
-- Reddit with nothing but pictures and videos
+- Subreddit with nothing but pictures and videos
 
 ## Why would you ever do that?
 - Make reddit less intimidating to people
